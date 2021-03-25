@@ -1,0 +1,7 @@
+.beyonce, .biel, .mbj, .brad  {
+  display: none;
+}
+body {
+  height: 100vh;
+  background: linear-gradient(to right, blue, rgb(247, 86, 113));
+}
