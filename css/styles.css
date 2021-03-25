@@ -1,9 +1,13 @@
 .beyonce, .biel, .mbj, .brad  {
   display: none;
+  padding-top: 100px;
+  text-align: center;
 }
 body {
   height: 100vh;
   background: linear-gradient(to right, blue, rgb(247, 86, 113));
+  color: cyan;
+  text-shadow: 1px 1px red;
 }
 .jumbotron {
   text-align: center;

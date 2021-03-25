@@ -14,7 +14,7 @@ $(document).ready(function() {
         $(".beyonce").show();
       } else {
         $(".biel").show();
-      };
+      }
       console.log(result);
 
       // if (result === "bradPitt") {
